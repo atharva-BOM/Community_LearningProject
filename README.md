@@ -1,1 +1,1 @@
-# Community_LearningProject
+The following project is calculator using C++, not a tough task but I consider this to be an impactful project because I intend to share this project as well as the learning week project with NGOs so that underpriviledged kids can learn and apply various concepts of CPP.
